@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BeatrizJardimm/BeatrizJardimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +18,10 @@ Here are some ideas to get you started:
 
 - 🌱 Estou estudando ciência da computação na PUCPR.
 
-<div>
+<div align="center">
   <a href="https://github.com/BeatrizJardimm">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BeatrizJardimm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizJardimm&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizJardimm&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
