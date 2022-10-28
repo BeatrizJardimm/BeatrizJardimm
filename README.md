@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Olá!! Eu sou a bia! 😄
 
-<table style="border: 0px; width: 100%;">
+<table style="border: 0px; width: 100%; background-color: rgba(176, 114, 25, 0);">
   <tr style="background-color: rgba(176, 114, 25, 0.45);">
     <th>
       Versão em Português
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     </th>  
   </tr>
 
-  <tr>
+  <tr style="background-color: rgba(176, 114, 25, 0);">
     <td>
       <ul>
         <li>Atualmente estou estudando ciência da computação na PUCPR.</li>
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/BeatrizJardimm">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BeatrizJardimm&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizJardimm&layout=compact&hide=html,css&theme=transparent"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BeatrizJardimm&show_icons=true&theme=great-gatsby&bg_color=00000000&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizJardimm&layout=compact&hide=html,css&theme=great-gatsby&bg_color=00000000"/>
 </div>
   
   
